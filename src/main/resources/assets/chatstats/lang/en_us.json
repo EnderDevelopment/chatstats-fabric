@@ -1,0 +1,9 @@
+{
+  "chatstats.mod_name": "Chat Stats",
+  "chatstats.leaderboard.title": "Chat Leaderboard",
+  "chatstats.leaderboard.total": "Total messages",
+  "chatstats.leaderboard.empty": "No messages recorded yet.",
+  "chatstats.leaderboard.more": "more",
+  "chatstats.player.count": "messages",
+  "chatstats.reset.success": "Chat stats have been reset."
+}
